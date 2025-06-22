@@ -1,0 +1,13 @@
+# Arquivos que não devem ir para o Git (Unreal Engine)
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.log
+Build/
