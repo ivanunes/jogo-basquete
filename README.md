@@ -36,14 +36,17 @@ A ideia principal do Baskrazy é criar uma experiência de basquete competitiva,
 
 ## 📷 Preview
 
-<img src="Preview/Captura" alt="captura">
-<img src="Preview/Animação.gif" alt="animação">
+<img src="Preview/Captura.PNG" alt="captura">
+<img src="Preview/Animação1.gif" alt="animação">
+<img src="Preview/Animação2.gif" alt="animação">
 
 ## 🚀 Como Jogar
 
-1. Faça o download da versão empacotada (Windows).
+1. Faça o download no itch.io da versão empacotada (Windows).
 2. Extraia os arquivos.
 3. Execute o arquivo `Baskrazy.exe`.
+
+[Download](https://ivanunes.itch.io/baskrazy)
 
 ## 🛠️ Desenvolvido com
 
@@ -59,7 +62,8 @@ Esse projeto está em desenvolvimento e ainda **não possui uma versão final ou
 ## 📬 Contato
 
 Desenvolvido por **Ivan Gabriel Nunes**  
-GitHub: [@ivanunes](https://github.com/ivanunes)  
+GitHub: [@ivanunes](https://github.com/ivanunes) <br>
+Linkedin: [@ivanunes](https://www.linkedin.com/in/ivanunes/) <br>
 Email: ivanunes633@gmail.com
 
 ---
